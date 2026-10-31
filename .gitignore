@@ -1,0 +1,14 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.Identifier
+.vscode/
+.idea/
+
+# Python cache & temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Personal images (privacy protection: お子様の手書きプリント写真等の保護)
+IMG_2465*.JPG

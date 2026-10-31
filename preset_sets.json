@@ -1,0 +1,2110 @@
+{
+  "daughter_mistakes": {
+    "id": "daughter_mistakes",
+    "title": "🎯 厳選トラップ克服（重要27語）",
+    "desc": "つまずきやすい重要スペルを集中攻略！ここを越えれば基礎完成！",
+    "isPreset": true,
+    "words": [
+      {
+        "japanese": "祖父",
+        "katakana": "グランドファーザー",
+        "correct": "grandfather",
+        "traps": [
+          "glandfather",
+          "grandfader",
+          "gurandofaza",
+          "grandfathel"
+        ],
+        "tip": "grand は r（gland ✕）！ ランドのカタカナに騙されない"
+      },
+      {
+        "japanese": "祖母",
+        "katakana": "グランドマザー",
+        "correct": "grandmother",
+        "traps": [
+          "glandmother",
+          "grandmoder",
+          "gurandomaza",
+          "grandmothel"
+        ],
+        "tip": "祖父と同じく grand の r！ glandmother に注意"
+      },
+      {
+        "japanese": "両親",
+        "katakana": "ペアレンツ",
+        "correct": "parents",
+        "traps": [
+          "pearents",
+          "parentz",
+          "palents",
+          "parnts"
+        ],
+        "tip": "「pea」ではなく pa！ r と l の混同（palents ✕）にも注意"
+      },
+      {
+        "japanese": "学校",
+        "katakana": "スクール",
+        "correct": "school",
+        "traps": [
+          "scooht",
+          "skool",
+          "scool",
+          "sukuru"
+        ],
+        "tip": "最後は l（エル）！ ch で「ク」の音。ローマ字 sukuru ✕"
+      },
+      {
+        "japanese": "女の子",
+        "katakana": "ガール",
+        "correct": "girl",
+        "traps": [
+          "gn",
+          "garl",
+          "gal",
+          "giri"
+        ],
+        "tip": "g + ir + l！ ir でアーの音。ローマ字 garl や gal ✕"
+      },
+      {
+        "japanese": "男の人",
+        "katakana": "マン",
+        "correct": "man",
+        "traps": [
+          "mon",
+          "men",
+          "mann",
+          "marn"
+        ],
+        "tip": "ローマ字のモ(mo)にしない！ m-a-n（men は複数形）"
+      },
+      {
+        "japanese": "女の人",
+        "katakana": "ウーマン",
+        "correct": "woman",
+        "traps": [
+          "womon",
+          "wuman",
+          "women",
+          "u-man"
+        ],
+        "tip": "後半は man と同じ！ wo-man（women は複数形）"
+      },
+      {
+        "japanese": "3",
+        "katakana": "スリー",
+        "correct": "three",
+        "traps": [
+          "tree",
+          "trhee",
+          "suri-",
+          "thlee"
+        ],
+        "tip": "tree（木）と混同注意！ th のあとに r（thlee ✕）"
+      },
+      {
+        "japanese": "7",
+        "katakana": "セブン",
+        "correct": "seven",
+        "traps": [
+          "sven",
+          "sebun",
+          "sevn",
+          "ceven"
+        ],
+        "tip": "母音 e を飛ばさない！ b と v（sebun ✕）に注意"
+      },
+      {
+        "japanese": "8",
+        "katakana": "エイト",
+        "correct": "eight",
+        "traps": [
+          "ate",
+          "ehgt",
+          "aight",
+          "eito"
+        ],
+        "tip": "ate（食べた）と同音！ 読まない gh がいるよ"
+      },
+      {
+        "japanese": "日曜日",
+        "katakana": "サンデイ",
+        "correct": "Sunday",
+        "traps": [
+          "Sanday",
+          "son",
+          "Sonday",
+          "Sandei"
+        ],
+        "tip": "太陽(Sun)の曜日だから u！ son（息子）や San ✕"
+      },
+      {
+        "japanese": "火曜日",
+        "katakana": "チューズデイ",
+        "correct": "Tuesday",
+        "traps": [
+          "Thesday",
+          "Teusday",
+          "Tuseday",
+          "Tyuzudei"
+        ],
+        "tip": "Tu からスタート！ 木曜(Th)と混同注意。ue の順番"
+      },
+      {
+        "japanese": "水曜日",
+        "katakana": "ウェンズデイ",
+        "correct": "Wednesday",
+        "traps": [
+          "Wdnseday",
+          "Wenesday",
+          "Wensday",
+          "Wenzudei"
+        ],
+        "tip": "テスト最頻出！ 読まない d が隠れている（Wed-nes-day）"
+      },
+      {
+        "japanese": "木曜日",
+        "katakana": "サーズデイ",
+        "correct": "Thursday",
+        "traps": [
+          "Tuesday",
+          "Thuresday",
+          "Tursday",
+          "Saazudei"
+        ],
+        "tip": "Th で始まる！ 火曜(Tu)との取り違えに厳重注意"
+      },
+      {
+        "japanese": "土曜日",
+        "katakana": "サタデイ",
+        "correct": "Saturday",
+        "traps": [
+          "Surtrday",
+          "Saterday",
+          "Sataday",
+          "Satadei"
+        ],
+        "tip": "Sat-ur-day。ur の前に at が入るよ！"
+      },
+      {
+        "japanese": "1月",
+        "katakana": "ジャニュアリー",
+        "correct": "January",
+        "traps": [
+          "Junuary",
+          "Janualy",
+          "Janyuari",
+          "Janualey"
+        ],
+        "tip": "Jan からスタート！ 6月(June)と混ざらない。最後は ry"
+      },
+      {
+        "japanese": "2月",
+        "katakana": "フェブラリー",
+        "correct": "February",
+        "traps": [
+          "Feveary",
+          "Feburary",
+          "Febuary",
+          "Feburaly"
+        ],
+        "tip": "b と v（Feveary ✕）注意！ Feb-ru-ary と区切る"
+      },
+      {
+        "japanese": "3月",
+        "katakana": "マーチ",
+        "correct": "March",
+        "traps": [
+          "Mrch",
+          "Maach",
+          "Marh",
+          "Maachi"
+        ],
+        "tip": "母音 a を飛ばさない！ M-a-r-ch"
+      },
+      {
+        "japanese": "4月",
+        "katakana": "エイプリル",
+        "correct": "April",
+        "traps": [
+          "Aprl",
+          "Apirl",
+          "Eipuriru",
+          "Aprile"
+        ],
+        "tip": "リルの母音 i を抜かさない！ A-p-r-i-l"
+      },
+      {
+        "japanese": "8月",
+        "katakana": "オーガスト",
+        "correct": "August",
+        "traps": [
+          "Augst",
+          "Ogast",
+          "Ogasuto",
+          "Ougust"
+        ],
+        "tip": "ガスの u を忘れずに！ Au-gu-st"
+      },
+      {
+        "japanese": "10月",
+        "katakana": "オクトーバー",
+        "correct": "October",
+        "traps": [
+          "Octokder",
+          "Octover",
+          "Okutoba",
+          "Octobel"
+        ],
+        "tip": "後半は ber！ k や v にしない（Octover ✕）"
+      },
+      {
+        "japanese": "11月",
+        "katakana": "ノーベンバー",
+        "correct": "November",
+        "traps": [
+          "Nomember",
+          "Nowember",
+          "Nobenba",
+          "Novembell"
+        ],
+        "tip": "真ん中は v！ m と混同しない（Nomember ✕）"
+      },
+      {
+        "japanese": "12月",
+        "katakana": "ディセンバー",
+        "correct": "December",
+        "traps": [
+          "Desember",
+          "Decenber",
+          "Disenba",
+          "Decembel"
+        ],
+        "tip": "セは c（Desember ✕）！ De-cem-ber"
+      },
+      {
+        "japanese": "見る・腕時計",
+        "katakana": "ウォッチ",
+        "correct": "watch",
+        "traps": [
+          "wach",
+          "wotti",
+          "whach",
+          "wachi"
+        ],
+        "tip": "読まない t が入る！ wa-tch。ローマ字 wotti ✕"
+      },
+      {
+        "japanese": "聞く・耳を傾ける",
+        "katakana": "リスン",
+        "correct": "listen",
+        "traps": [
+          "lison",
+          "risun",
+          "liston",
+          "lisen"
+        ],
+        "tip": "読まない t がある！ r と l（risun ✕）にも注意"
+      },
+      {
+        "japanese": "作る",
+        "katakana": "メイク",
+        "correct": "make",
+        "traps": [
+          "meke",
+          "meiku",
+          "maik",
+          "meik"
+        ],
+        "tip": "メケ(meke)じゃない！ マジックeで m-a-k-e"
+      },
+      {
+        "japanese": "お金",
+        "katakana": "マネー",
+        "correct": "money",
+        "traps": [
+          "many",
+          "mome",
+          "manei",
+          "monee"
+        ],
+        "tip": "many（たくさんの）と混同注意！ mo-ney"
+      }
+    ]
+  },
+  "print_all_72": {
+    "id": "print_all_72",
+    "title": "📚 基礎パーフェクト（全72語）",
+    "desc": "中1で絶対に書けるようにしたい超基本の全72単語",
+    "isPreset": true,
+    "words": [
+      {
+        "japanese": "父",
+        "katakana": "ファーザー",
+        "correct": "father",
+        "traps": [
+          "fader",
+          "faザー",
+          "fathel",
+          "fahter"
+        ],
+        "tip": "th は舌を挟む音！ r と l の混同注意（最後は er）"
+      },
+      {
+        "japanese": "母",
+        "katakana": "マザー",
+        "correct": "mother",
+        "traps": [
+          "moder",
+          "mothel",
+          "mohter",
+          "maザー"
+        ],
+        "tip": "o だけどアと読む！ th と er の組み合わせ（mothel にしない）"
+      },
+      {
+        "japanese": "兄・弟",
+        "katakana": "ブラザー",
+        "correct": "brother",
+        "traps": [
+          "blother",
+          "broder",
+          "brotel",
+          "borther"
+        ],
+        "tip": "r と l を混同しない（blother ✕）！ th と er"
+      },
+      {
+        "japanese": "姉・妹",
+        "katakana": "シスター",
+        "correct": "sister",
+        "traps": [
+          "cister",
+          "sistel",
+          "shister",
+          "siter"
+        ],
+        "tip": "シは si！ 最後は r（sistel ✕）。cister と書かない"
+      },
+      {
+        "japanese": "祖父",
+        "katakana": "グランドファーザー",
+        "correct": "grandfather",
+        "traps": [
+          "glandfather",
+          "grandfader",
+          "gurandofaza",
+          "grandfathel"
+        ],
+        "tip": "grand は r（gland ✕）！ ランドのカタカナに騙されない"
+      },
+      {
+        "japanese": "祖母",
+        "katakana": "グランドマザー",
+        "correct": "grandmother",
+        "traps": [
+          "glandmother",
+          "grandmoder",
+          "gurandomaza",
+          "grandmothel"
+        ],
+        "tip": "祖父と同じく grand の r！ glandmother に注意"
+      },
+      {
+        "japanese": "両親",
+        "katakana": "ペアレンツ",
+        "correct": "parents",
+        "traps": [
+          "pearents",
+          "parentz",
+          "palents",
+          "parnts"
+        ],
+        "tip": "「pea」ではなく pa！ r と l の混同（palents ✕）にも注意"
+      },
+      {
+        "japanese": "家族",
+        "katakana": "ファミリー",
+        "correct": "family",
+        "traps": [
+          "famiry",
+          "famly",
+          "famili",
+          "fameri"
+        ],
+        "tip": "r と l の混同（famiry ✕）に注意！ fa-mi-ly"
+      },
+      {
+        "japanese": "学校",
+        "katakana": "スクール",
+        "correct": "school",
+        "traps": [
+          "scooht",
+          "skool",
+          "scool",
+          "sukuru"
+        ],
+        "tip": "最後は l（エル）！ ch で「ク」の音。ローマ字 sukuru ✕"
+      },
+      {
+        "japanese": "先生",
+        "katakana": "ティーチャー",
+        "correct": "teacher",
+        "traps": [
+          "teecher",
+          "teachel",
+          "tiicha",
+          "techer"
+        ],
+        "tip": "ea でイー！ 最後は r（teachel ✕）。tiicha ✕"
+      },
+      {
+        "japanese": "生徒",
+        "katakana": "スチューデント",
+        "correct": "student",
+        "traps": [
+          "studant",
+          "sutyudento",
+          "studnt",
+          "stydent"
+        ],
+        "tip": "stu-dent。ローマ字 sutyudento ✕"
+      },
+      {
+        "japanese": "友達",
+        "katakana": "フレンド",
+        "correct": "friend",
+        "traps": [
+          "freind",
+          "fliend",
+          "frend",
+          "furendo"
+        ],
+        "tip": "i が先で e が後！ r と l（fliend ✕）、ローマ字 furendo ✕"
+      },
+      {
+        "japanese": "男の子",
+        "katakana": "ボーイ",
+        "correct": "boy",
+        "traps": [
+          "boi",
+          "booi",
+          "boye",
+          "bay"
+        ],
+        "tip": "b-o-y。ローマ字 boi や booi にしない！"
+      },
+      {
+        "japanese": "女の子",
+        "katakana": "ガール",
+        "correct": "girl",
+        "traps": [
+          "gn",
+          "garl",
+          "gal",
+          "giri"
+        ],
+        "tip": "g + ir + l！ ir でアーの音。ローマ字 garl や gal ✕"
+      },
+      {
+        "japanese": "男の人",
+        "katakana": "マン",
+        "correct": "man",
+        "traps": [
+          "mon",
+          "men",
+          "mann",
+          "marn"
+        ],
+        "tip": "ローマ字のモ(mo)にしない！ m-a-n（men は複数形）"
+      },
+      {
+        "japanese": "女の人",
+        "katakana": "ウーマン",
+        "correct": "woman",
+        "traps": [
+          "womon",
+          "wuman",
+          "women",
+          "u-man"
+        ],
+        "tip": "後半は man と同じ！ wo-man（women は複数形）"
+      },
+      {
+        "japanese": "本",
+        "katakana": "ブック",
+        "correct": "book",
+        "traps": [
+          "buk",
+          "bukku",
+          "boke",
+          "boock"
+        ],
+        "tip": "oo でウの音！ ローマ字 bukku ✕"
+      },
+      {
+        "japanese": "机",
+        "katakana": "デスク",
+        "correct": "desk",
+        "traps": [
+          "desku",
+          "dask",
+          "deske",
+          "diske"
+        ],
+        "tip": "真ん中は e！ ローマ字 desku ✕"
+      },
+      {
+        "japanese": "ペン",
+        "katakana": "ペン",
+        "correct": "pen",
+        "traps": [
+          "pan",
+          "penn",
+          "penne",
+          "pin"
+        ],
+        "tip": "p-e-n。pan はフライパンになっちゃうよ！"
+      },
+      {
+        "japanese": "部屋",
+        "katakana": "ルーム",
+        "correct": "room",
+        "traps": [
+          "loom",
+          "rumu",
+          "rum",
+          "roome"
+        ],
+        "tip": "r と l の混同（loom は織機）注意！ ローマ字 rumu ✕"
+      },
+      {
+        "japanese": "家・家庭",
+        "katakana": "ホーム",
+        "correct": "home",
+        "traps": [
+          "homu",
+          "hom",
+          "houm",
+          "hoam"
+        ],
+        "tip": "マジックe！ h-o-m-e。ローマ字 homu ✕"
+      },
+      {
+        "japanese": "車",
+        "katakana": "カー",
+        "correct": "car",
+        "traps": [
+          "cal",
+          "kaa",
+          "kar",
+          "caar"
+        ],
+        "tip": "最後は r（cal ✕）！ ar で「アー」の音"
+      },
+      {
+        "japanese": "かばん",
+        "katakana": "バッグ",
+        "correct": "bag",
+        "traps": [
+          "baggu",
+          "bug",
+          "baag",
+          "beg"
+        ],
+        "tip": "真ん中は a！ bug は虫になっちゃうよ。ローマ字 baggu ✕"
+      },
+      {
+        "japanese": "箱",
+        "katakana": "ボックス",
+        "correct": "box",
+        "traps": [
+          "boks",
+          "bokkusu",
+          "bax",
+          "boxe"
+        ],
+        "tip": "b-o-x。ローマ字 bokkusu ✕"
+      },
+      {
+        "japanese": "1",
+        "katakana": "ワン",
+        "correct": "one",
+        "traps": [
+          "won",
+          "wan",
+          "o-ne",
+          "wun"
+        ],
+        "tip": "won（勝った）と混同注意！ 「お・ね(one)」と覚えよう"
+      },
+      {
+        "japanese": "2",
+        "katakana": "ツー",
+        "correct": "two",
+        "traps": [
+          "to",
+          "too",
+          "tow",
+          "tsu"
+        ],
+        "tip": "同音異義語 to / too と混同注意！ 隠れた w がある"
+      },
+      {
+        "japanese": "3",
+        "katakana": "スリー",
+        "correct": "three",
+        "traps": [
+          "tree",
+          "trhee",
+          "suri-",
+          "thlee"
+        ],
+        "tip": "tree（木）と混同注意！ th のあとに r（thlee ✕）"
+      },
+      {
+        "japanese": "4",
+        "katakana": "フォー",
+        "correct": "four",
+        "traps": [
+          "for",
+          "fo-",
+          "foor",
+          "fuor"
+        ],
+        "tip": "for（〜のために）と混同注意！ u を抜かさない"
+      },
+      {
+        "japanese": "5",
+        "katakana": "ファイブ",
+        "correct": "five",
+        "traps": [
+          "faibu",
+          "fiv",
+          "fife",
+          "faive"
+        ],
+        "tip": "マジックe！ f-i-v-e。ローマ字 faibu ✕"
+      },
+      {
+        "japanese": "6",
+        "katakana": "シックス",
+        "correct": "six",
+        "traps": [
+          "sikkusu",
+          "siks",
+          "sax",
+          "sicks"
+        ],
+        "tip": "s-i-x！ ローマ字 sikkusu ✕"
+      },
+      {
+        "japanese": "7",
+        "katakana": "セブン",
+        "correct": "seven",
+        "traps": [
+          "sven",
+          "sebun",
+          "sevn",
+          "ceven"
+        ],
+        "tip": "母音 e を飛ばさない！ b と v（sebun ✕）に注意"
+      },
+      {
+        "japanese": "8",
+        "katakana": "エイト",
+        "correct": "eight",
+        "traps": [
+          "ate",
+          "ehgt",
+          "aight",
+          "eito"
+        ],
+        "tip": "ate（食べた）と同音！ 読まない gh がいるよ"
+      },
+      {
+        "japanese": "9",
+        "katakana": "ナイン",
+        "correct": "nine",
+        "traps": [
+          "nain",
+          "nin",
+          "nyne",
+          "naine"
+        ],
+        "tip": "マジックe！ n-i-n-e。ローマ字 nain ✕"
+      },
+      {
+        "japanese": "10",
+        "katakana": "テン",
+        "correct": "ten",
+        "traps": [
+          "tan",
+          "tenn",
+          "tin",
+          "tem"
+        ],
+        "tip": "真ん中は e！ t-e-n"
+      },
+      {
+        "japanese": "11",
+        "katakana": "イレブン",
+        "correct": "eleven",
+        "traps": [
+          "elven",
+          "irebun",
+          "elevenn",
+          "elefun"
+        ],
+        "tip": "母音は全部 e！ r と l（irebun ✕）に注意"
+      },
+      {
+        "japanese": "12",
+        "katakana": "トゥエルブ",
+        "correct": "twelve",
+        "traps": [
+          "twelf",
+          "twleve",
+          "twerubu",
+          "twelv"
+        ],
+        "tip": "twoの仲間なので tw！ 最後は ve（twelf ✕）"
+      },
+      {
+        "japanese": "日曜日",
+        "katakana": "サンデイ",
+        "correct": "Sunday",
+        "traps": [
+          "Sanday",
+          "son",
+          "Sonday",
+          "Sandei"
+        ],
+        "tip": "太陽(Sun)の曜日だから u！ son（息子）や San ✕"
+      },
+      {
+        "japanese": "月曜日",
+        "katakana": "マンデイ",
+        "correct": "Monday",
+        "traps": [
+          "Manday",
+          "Munday",
+          "Mondei",
+          "Mandei"
+        ],
+        "tip": "月(Moon)から来た Mon + day！ Manday に注意"
+      },
+      {
+        "japanese": "火曜日",
+        "katakana": "チューズデイ",
+        "correct": "Tuesday",
+        "traps": [
+          "Thesday",
+          "Teusday",
+          "Tuseday",
+          "Tyuzudei"
+        ],
+        "tip": "Tu からスタート！ 木曜(Th)と混同注意。ue の順番"
+      },
+      {
+        "japanese": "水曜日",
+        "katakana": "ウェンズデイ",
+        "correct": "Wednesday",
+        "traps": [
+          "Wdnseday",
+          "Wenesday",
+          "Wensday",
+          "Wenzudei"
+        ],
+        "tip": "テスト最頻出！ 読まない d が隠れている（Wed-nes-day）"
+      },
+      {
+        "japanese": "木曜日",
+        "katakana": "サーズデイ",
+        "correct": "Thursday",
+        "traps": [
+          "Tuesday",
+          "Thuresday",
+          "Tursday",
+          "Saazudei"
+        ],
+        "tip": "Th で始まる！ 火曜(Tu)との取り違えに厳重注意"
+      },
+      {
+        "japanese": "金曜日",
+        "katakana": "フライデイ",
+        "correct": "Friday",
+        "traps": [
+          "Fliday",
+          "Furaidei",
+          "Freeday",
+          "Fryday"
+        ],
+        "tip": "r と l（Fliday ✕）！ Fri + day"
+      },
+      {
+        "japanese": "土曜日",
+        "katakana": "サタデイ",
+        "correct": "Saturday",
+        "traps": [
+          "Surtrday",
+          "Saterday",
+          "Sataday",
+          "Satadei"
+        ],
+        "tip": "Sat-ur-day。ur の前に at が入るよ！"
+      },
+      {
+        "japanese": "1月",
+        "katakana": "ジャニュアリー",
+        "correct": "January",
+        "traps": [
+          "Junuary",
+          "Janualy",
+          "Janyuari",
+          "Janualey"
+        ],
+        "tip": "Jan からスタート！ 6月(June)と混ざらない。最後は ry"
+      },
+      {
+        "japanese": "2月",
+        "katakana": "フェブラリー",
+        "correct": "February",
+        "traps": [
+          "Feveary",
+          "Feburary",
+          "Febuary",
+          "Feburaly"
+        ],
+        "tip": "b と v（Feveary ✕）注意！ Feb-ru-ary と区切る"
+      },
+      {
+        "japanese": "3月",
+        "katakana": "マーチ",
+        "correct": "March",
+        "traps": [
+          "Mrch",
+          "Maach",
+          "Marh",
+          "Maachi"
+        ],
+        "tip": "母音 a を飛ばさない！ M-a-r-ch"
+      },
+      {
+        "japanese": "4月",
+        "katakana": "エイプリル",
+        "correct": "April",
+        "traps": [
+          "Aprl",
+          "Apirl",
+          "Eipuriru",
+          "Aprile"
+        ],
+        "tip": "リルの母音 i を抜かさない！ A-p-r-i-l"
+      },
+      {
+        "japanese": "5月",
+        "katakana": "メイ",
+        "correct": "May",
+        "traps": [
+          "Mei",
+          "Mey",
+          "Mai",
+          "Me-"
+        ],
+        "tip": "ay でエイの音！ ローマ字 Mei や Mai ✕"
+      },
+      {
+        "japanese": "6月",
+        "katakana": "ジューン",
+        "correct": "June",
+        "traps": [
+          "Jun",
+          "Joon",
+          "Jyu-n",
+          "Juun"
+        ],
+        "tip": "マジックe！ J-u-n-e。1月(Jan)と区別"
+      },
+      {
+        "japanese": "7月",
+        "katakana": "ジュライ",
+        "correct": "July",
+        "traps": [
+          "Julai",
+          "Jurai",
+          "Julee",
+          "Jyurai"
+        ],
+        "tip": "r と l（Jurai ✕）注意！ 最後は y（July）"
+      },
+      {
+        "japanese": "8月",
+        "katakana": "オーガスト",
+        "correct": "August",
+        "traps": [
+          "Augst",
+          "Ogast",
+          "Ogasuto",
+          "Ougust"
+        ],
+        "tip": "ガスの u を忘れずに！ Au-gu-st"
+      },
+      {
+        "japanese": "9月",
+        "katakana": "セプテンバー",
+        "correct": "September",
+        "traps": [
+          "Septenber",
+          "Septembar",
+          "Seputenba",
+          "Septembel"
+        ],
+        "tip": "Sep-tem-ber。真ん中は m！ 最後は r（bel ✕）"
+      },
+      {
+        "japanese": "10月",
+        "katakana": "オクトーバー",
+        "correct": "October",
+        "traps": [
+          "Octokder",
+          "Octover",
+          "Okutoba",
+          "Octobel"
+        ],
+        "tip": "後半は ber！ k や v にしない（Octover ✕）"
+      },
+      {
+        "japanese": "11月",
+        "katakana": "ノーベンバー",
+        "correct": "November",
+        "traps": [
+          "Nomember",
+          "Nowember",
+          "Nobenba",
+          "Novembell"
+        ],
+        "tip": "真ん中は v！ m と混同しない（Nomember ✕）"
+      },
+      {
+        "japanese": "12月",
+        "katakana": "ディセンバー",
+        "correct": "December",
+        "traps": [
+          "Desember",
+          "Decenber",
+          "Disenba",
+          "Decembel"
+        ],
+        "tip": "セは c（Desember ✕）！ De-cem-ber"
+      },
+      {
+        "japanese": "持っている",
+        "katakana": "ハブ",
+        "correct": "have",
+        "traps": [
+          "hav",
+          "habu",
+          "hafe",
+          "habe"
+        ],
+        "tip": "英語は v で終わらない！ 最後に e がつく"
+      },
+      {
+        "japanese": "好き",
+        "katakana": "ライク",
+        "correct": "like",
+        "traps": [
+          "raiku",
+          "raik",
+          "lik",
+          "laik"
+        ],
+        "tip": "r と l（raiku ✕）！ マジックeで l-i-k-e"
+      },
+      {
+        "japanese": "する・遊ぶ",
+        "katakana": "プレイ",
+        "correct": "play",
+        "traps": [
+          "pray",
+          "purei",
+          "plei",
+          "plai"
+        ],
+        "tip": "pray（祈る）と混同注意！ ay でエイ（purei ✕）"
+      },
+      {
+        "japanese": "勉強する",
+        "katakana": "スタディ",
+        "correct": "study",
+        "traps": [
+          "stady",
+          "sutadi",
+          "studee",
+          "stadi"
+        ],
+        "tip": "u だけどアと読む！ ローマ字 sutadi / stady ✕"
+      },
+      {
+        "japanese": "話す",
+        "katakana": "スピーク",
+        "correct": "speak",
+        "traps": [
+          "speek",
+          "supi-ku",
+          "speke",
+          "supeku"
+        ],
+        "tip": "ea でイーの音！ ローマ字 supi-ku ✕"
+      },
+      {
+        "japanese": "読む",
+        "katakana": "リード",
+        "correct": "read",
+        "traps": [
+          "red",
+          "lead",
+          "rido",
+          "reed"
+        ],
+        "tip": "red（赤）や lead（導く）と同音注意！ ea でイー"
+      },
+      {
+        "japanese": "見る・腕時計",
+        "katakana": "ウォッチ",
+        "correct": "watch",
+        "traps": [
+          "wach",
+          "wotti",
+          "whach",
+          "wachi"
+        ],
+        "tip": "読まない t が入る！ wa-tch。ローマ字 wotti ✕"
+      },
+      {
+        "japanese": "聞く・耳を傾ける",
+        "katakana": "リスン",
+        "correct": "listen",
+        "traps": [
+          "lison",
+          "risun",
+          "liston",
+          "lisen"
+        ],
+        "tip": "読まない t がある！ r と l（risun ✕）にも注意"
+      },
+      {
+        "japanese": "欲しい",
+        "katakana": "ウォント",
+        "correct": "want",
+        "traps": [
+          "wont",
+          "wonto",
+          "wannt",
+          "wontu"
+        ],
+        "tip": "w-a-n-t！ wont（短縮形）や wonto ✕"
+      },
+      {
+        "japanese": "住んでいる",
+        "katakana": "リブ",
+        "correct": "live",
+        "traps": [
+          "rib",
+          "ribu",
+          "liv",
+          "leev"
+        ],
+        "tip": "r と l（rib ✕）！ have と同じく最後は ve"
+      },
+      {
+        "japanese": "食べる",
+        "katakana": "イート",
+        "correct": "eat",
+        "traps": [
+          "ate",
+          "i-to",
+          "eet",
+          "eate"
+        ],
+        "tip": "ate（過去形）と混同注意！ ea でイー"
+      },
+      {
+        "japanese": "飲む",
+        "katakana": "ドリンク",
+        "correct": "drink",
+        "traps": [
+          "dlink",
+          "dorinku",
+          "drenk",
+          "dlinku"
+        ],
+        "tip": "r と l（dlink ✕）！ dr-in-k。ローマ字 dorinku ✕"
+      },
+      {
+        "japanese": "行く",
+        "katakana": "ゴー",
+        "correct": "go",
+        "traps": [
+          "gou",
+          "go-",
+          "goo",
+          "gow"
+        ],
+        "tip": "g-o の2文字！ ローマ字 gou や goo ✕"
+      },
+      {
+        "japanese": "来る",
+        "katakana": "カム",
+        "correct": "come",
+        "traps": [
+          "kamu",
+          "kam",
+          "cum",
+          "coam"
+        ],
+        "tip": "マジックe！ c-o-m-e。ローマ字 kamu ✕"
+      },
+      {
+        "japanese": "書く",
+        "katakana": "ライト",
+        "correct": "write",
+        "traps": [
+          "right",
+          "raito",
+          "rite",
+          "wlite"
+        ],
+        "tip": "right（右）と同音！ 読まない w から始まる"
+      },
+      {
+        "japanese": "作る",
+        "katakana": "メイク",
+        "correct": "make",
+        "traps": [
+          "meke",
+          "meiku",
+          "maik",
+          "meik"
+        ],
+        "tip": "メケ(meke)じゃない！ マジックeで m-a-k-e"
+      },
+      {
+        "japanese": "お金",
+        "katakana": "マネー",
+        "correct": "money",
+        "traps": [
+          "many",
+          "mome",
+          "manei",
+          "monee"
+        ],
+        "tip": "many（たくさんの）と混同注意！ mo-ney"
+      }
+    ]
+  },
+  "family": {
+    "id": "family",
+    "title": "👨‍👩‍👧 家族・身近な人・生活（24語）",
+    "desc": "father, friend, school など生活の基本単語",
+    "isPreset": true,
+    "words": [
+      {
+        "japanese": "父",
+        "katakana": "ファーザー",
+        "correct": "father",
+        "traps": [
+          "fader",
+          "faザー",
+          "fathel",
+          "fahter"
+        ],
+        "tip": "th は舌を挟む音！ r と l の混同注意（最後は er）"
+      },
+      {
+        "japanese": "母",
+        "katakana": "マザー",
+        "correct": "mother",
+        "traps": [
+          "moder",
+          "mothel",
+          "mohter",
+          "maザー"
+        ],
+        "tip": "o だけどアと読む！ th と er の組み合わせ（mothel にしない）"
+      },
+      {
+        "japanese": "兄・弟",
+        "katakana": "ブラザー",
+        "correct": "brother",
+        "traps": [
+          "blother",
+          "broder",
+          "brotel",
+          "borther"
+        ],
+        "tip": "r と l を混同しない（blother ✕）！ th と er"
+      },
+      {
+        "japanese": "姉・妹",
+        "katakana": "シスター",
+        "correct": "sister",
+        "traps": [
+          "cister",
+          "sistel",
+          "shister",
+          "siter"
+        ],
+        "tip": "シは si！ 最後は r（sistel ✕）。cister と書かない"
+      },
+      {
+        "japanese": "祖父",
+        "katakana": "グランドファーザー",
+        "correct": "grandfather",
+        "traps": [
+          "glandfather",
+          "grandfader",
+          "gurandofaza",
+          "grandfathel"
+        ],
+        "tip": "grand は r（gland ✕）！ ランドのカタカナに騙されない"
+      },
+      {
+        "japanese": "祖母",
+        "katakana": "グランドマザー",
+        "correct": "grandmother",
+        "traps": [
+          "glandmother",
+          "grandmoder",
+          "gurandomaza",
+          "grandmothel"
+        ],
+        "tip": "祖父と同じく grand の r！ glandmother に注意"
+      },
+      {
+        "japanese": "両親",
+        "katakana": "ペアレンツ",
+        "correct": "parents",
+        "traps": [
+          "pearents",
+          "parentz",
+          "palents",
+          "parnts"
+        ],
+        "tip": "「pea」ではなく pa！ r と l の混同（palents ✕）にも注意"
+      },
+      {
+        "japanese": "家族",
+        "katakana": "ファミリー",
+        "correct": "family",
+        "traps": [
+          "famiry",
+          "famly",
+          "famili",
+          "fameri"
+        ],
+        "tip": "r と l の混同（famiry ✕）に注意！ fa-mi-ly"
+      },
+      {
+        "japanese": "学校",
+        "katakana": "スクール",
+        "correct": "school",
+        "traps": [
+          "scooht",
+          "skool",
+          "scool",
+          "sukuru"
+        ],
+        "tip": "最後は l（エル）！ ch で「ク」の音。ローマ字 sukuru ✕"
+      },
+      {
+        "japanese": "先生",
+        "katakana": "ティーチャー",
+        "correct": "teacher",
+        "traps": [
+          "teecher",
+          "teachel",
+          "tiicha",
+          "techer"
+        ],
+        "tip": "ea でイー！ 最後は r（teachel ✕）。tiicha ✕"
+      },
+      {
+        "japanese": "生徒",
+        "katakana": "スチューデント",
+        "correct": "student",
+        "traps": [
+          "studant",
+          "sutyudento",
+          "studnt",
+          "stydent"
+        ],
+        "tip": "stu-dent。ローマ字 sutyudento ✕"
+      },
+      {
+        "japanese": "友達",
+        "katakana": "フレンド",
+        "correct": "friend",
+        "traps": [
+          "freind",
+          "fliend",
+          "frend",
+          "furendo"
+        ],
+        "tip": "i が先で e が後！ r と l（fliend ✕）、ローマ字 furendo ✕"
+      },
+      {
+        "japanese": "男の子",
+        "katakana": "ボーイ",
+        "correct": "boy",
+        "traps": [
+          "boi",
+          "booi",
+          "boye",
+          "bay"
+        ],
+        "tip": "b-o-y。ローマ字 boi や booi にしない！"
+      },
+      {
+        "japanese": "女の子",
+        "katakana": "ガール",
+        "correct": "girl",
+        "traps": [
+          "gn",
+          "garl",
+          "gal",
+          "giri"
+        ],
+        "tip": "g + ir + l！ ir でアーの音。ローマ字 garl や gal ✕"
+      },
+      {
+        "japanese": "男の人",
+        "katakana": "マン",
+        "correct": "man",
+        "traps": [
+          "mon",
+          "men",
+          "mann",
+          "marn"
+        ],
+        "tip": "ローマ字のモ(mo)にしない！ m-a-n（men は複数形）"
+      },
+      {
+        "japanese": "女の人",
+        "katakana": "ウーマン",
+        "correct": "woman",
+        "traps": [
+          "womon",
+          "wuman",
+          "women",
+          "u-man"
+        ],
+        "tip": "後半は man と同じ！ wo-man（women は複数形）"
+      },
+      {
+        "japanese": "本",
+        "katakana": "ブック",
+        "correct": "book",
+        "traps": [
+          "buk",
+          "bukku",
+          "boke",
+          "boock"
+        ],
+        "tip": "oo でウの音！ ローマ字 bukku ✕"
+      },
+      {
+        "japanese": "机",
+        "katakana": "デスク",
+        "correct": "desk",
+        "traps": [
+          "desku",
+          "dask",
+          "deske",
+          "diske"
+        ],
+        "tip": "真ん中は e！ ローマ字 desku ✕"
+      },
+      {
+        "japanese": "ペン",
+        "katakana": "ペン",
+        "correct": "pen",
+        "traps": [
+          "pan",
+          "penn",
+          "penne",
+          "pin"
+        ],
+        "tip": "p-e-n。pan はフライパンになっちゃうよ！"
+      },
+      {
+        "japanese": "部屋",
+        "katakana": "ルーム",
+        "correct": "room",
+        "traps": [
+          "loom",
+          "rumu",
+          "rum",
+          "roome"
+        ],
+        "tip": "r と l の混同（loom は織機）注意！ ローマ字 rumu ✕"
+      },
+      {
+        "japanese": "家・家庭",
+        "katakana": "ホーム",
+        "correct": "home",
+        "traps": [
+          "homu",
+          "hom",
+          "houm",
+          "hoam"
+        ],
+        "tip": "マジックe！ h-o-m-e。ローマ字 homu ✕"
+      },
+      {
+        "japanese": "車",
+        "katakana": "カー",
+        "correct": "car",
+        "traps": [
+          "cal",
+          "kaa",
+          "kar",
+          "caar"
+        ],
+        "tip": "最後は r（cal ✕）！ ar で「アー」の音"
+      },
+      {
+        "japanese": "かばん",
+        "katakana": "バッグ",
+        "correct": "bag",
+        "traps": [
+          "baggu",
+          "bug",
+          "baag",
+          "beg"
+        ],
+        "tip": "真ん中は a！ bug は虫になっちゃうよ。ローマ字 baggu ✕"
+      },
+      {
+        "japanese": "箱",
+        "katakana": "ボックス",
+        "correct": "box",
+        "traps": [
+          "boks",
+          "bokkusu",
+          "bax",
+          "boxe"
+        ],
+        "tip": "b-o-x。ローマ字 bokkusu ✕"
+      }
+    ]
+  },
+  "numbers": {
+    "id": "numbers",
+    "title": "🔢 数字 1〜12（12語）",
+    "desc": "two, three, eight など不規則スペルの数字マスター",
+    "isPreset": true,
+    "words": [
+      {
+        "japanese": "1",
+        "katakana": "ワン",
+        "correct": "one",
+        "traps": [
+          "won",
+          "wan",
+          "o-ne",
+          "wun"
+        ],
+        "tip": "won（勝った）と混同注意！ 「お・ね(one)」と覚えよう"
+      },
+      {
+        "japanese": "2",
+        "katakana": "ツー",
+        "correct": "two",
+        "traps": [
+          "to",
+          "too",
+          "tow",
+          "tsu"
+        ],
+        "tip": "同音異義語 to / too と混同注意！ 隠れた w がある"
+      },
+      {
+        "japanese": "3",
+        "katakana": "スリー",
+        "correct": "three",
+        "traps": [
+          "tree",
+          "trhee",
+          "suri-",
+          "thlee"
+        ],
+        "tip": "tree（木）と混同注意！ th のあとに r（thlee ✕）"
+      },
+      {
+        "japanese": "4",
+        "katakana": "フォー",
+        "correct": "four",
+        "traps": [
+          "for",
+          "fo-",
+          "foor",
+          "fuor"
+        ],
+        "tip": "for（〜のために）と混同注意！ u を抜かさない"
+      },
+      {
+        "japanese": "5",
+        "katakana": "ファイブ",
+        "correct": "five",
+        "traps": [
+          "faibu",
+          "fiv",
+          "fife",
+          "faive"
+        ],
+        "tip": "マジックe！ f-i-v-e。ローマ字 faibu ✕"
+      },
+      {
+        "japanese": "6",
+        "katakana": "シックス",
+        "correct": "six",
+        "traps": [
+          "sikkusu",
+          "siks",
+          "sax",
+          "sicks"
+        ],
+        "tip": "s-i-x！ ローマ字 sikkusu ✕"
+      },
+      {
+        "japanese": "7",
+        "katakana": "セブン",
+        "correct": "seven",
+        "traps": [
+          "sven",
+          "sebun",
+          "sevn",
+          "ceven"
+        ],
+        "tip": "母音 e を飛ばさない！ b と v（sebun ✕）に注意"
+      },
+      {
+        "japanese": "8",
+        "katakana": "エイト",
+        "correct": "eight",
+        "traps": [
+          "ate",
+          "ehgt",
+          "aight",
+          "eito"
+        ],
+        "tip": "ate（食べた）と同音！ 読まない gh がいるよ"
+      },
+      {
+        "japanese": "9",
+        "katakana": "ナイン",
+        "correct": "nine",
+        "traps": [
+          "nain",
+          "nin",
+          "nyne",
+          "naine"
+        ],
+        "tip": "マジックe！ n-i-n-e。ローマ字 nain ✕"
+      },
+      {
+        "japanese": "10",
+        "katakana": "テン",
+        "correct": "ten",
+        "traps": [
+          "tan",
+          "tenn",
+          "tin",
+          "tem"
+        ],
+        "tip": "真ん中は e！ t-e-n"
+      },
+      {
+        "japanese": "11",
+        "katakana": "イレブン",
+        "correct": "eleven",
+        "traps": [
+          "elven",
+          "irebun",
+          "elevenn",
+          "elefun"
+        ],
+        "tip": "母音は全部 e！ r と l（irebun ✕）に注意"
+      },
+      {
+        "japanese": "12",
+        "katakana": "トゥエルブ",
+        "correct": "twelve",
+        "traps": [
+          "twelf",
+          "twleve",
+          "twerubu",
+          "twelv"
+        ],
+        "tip": "twoの仲間なので tw！ 最後は ve（twelf ✕）"
+      }
+    ]
+  },
+  "days": {
+    "id": "days",
+    "title": "📅 曜日 日〜土（7語）",
+    "desc": "Wednesday, Tuesday, Thursday などテスト最頻出の曜日",
+    "isPreset": true,
+    "words": [
+      {
+        "japanese": "日曜日",
+        "katakana": "サンデイ",
+        "correct": "Sunday",
+        "traps": [
+          "Sanday",
+          "son",
+          "Sonday",
+          "Sandei"
+        ],
+        "tip": "太陽(Sun)の曜日だから u！ son（息子）や San ✕"
+      },
+      {
+        "japanese": "月曜日",
+        "katakana": "マンデイ",
+        "correct": "Monday",
+        "traps": [
+          "Manday",
+          "Munday",
+          "Mondei",
+          "Mandei"
+        ],
+        "tip": "月(Moon)から来た Mon + day！ Manday に注意"
+      },
+      {
+        "japanese": "火曜日",
+        "katakana": "チューズデイ",
+        "correct": "Tuesday",
+        "traps": [
+          "Thesday",
+          "Teusday",
+          "Tuseday",
+          "Tyuzudei"
+        ],
+        "tip": "Tu からスタート！ 木曜(Th)と混同注意。ue の順番"
+      },
+      {
+        "japanese": "水曜日",
+        "katakana": "ウェンズデイ",
+        "correct": "Wednesday",
+        "traps": [
+          "Wdnseday",
+          "Wenesday",
+          "Wensday",
+          "Wenzudei"
+        ],
+        "tip": "テスト最頻出！ 読まない d が隠れている（Wed-nes-day）"
+      },
+      {
+        "japanese": "木曜日",
+        "katakana": "サーズデイ",
+        "correct": "Thursday",
+        "traps": [
+          "Tuesday",
+          "Thuresday",
+          "Tursday",
+          "Saazudei"
+        ],
+        "tip": "Th で始まる！ 火曜(Tu)との取り違えに厳重注意"
+      },
+      {
+        "japanese": "金曜日",
+        "katakana": "フライデイ",
+        "correct": "Friday",
+        "traps": [
+          "Fliday",
+          "Furaidei",
+          "Freeday",
+          "Fryday"
+        ],
+        "tip": "r と l（Fliday ✕）！ Fri + day"
+      },
+      {
+        "japanese": "土曜日",
+        "katakana": "サタデイ",
+        "correct": "Saturday",
+        "traps": [
+          "Surtrday",
+          "Saterday",
+          "Sataday",
+          "Satadei"
+        ],
+        "tip": "Sat-ur-day。ur の前に at が入るよ！"
+      }
+    ]
+  },
+  "months": {
+    "id": "months",
+    "title": "🗓️ 月 1月〜12月（12語）",
+    "desc": "January, February, October など間違いやすい12ヶ月",
+    "isPreset": true,
+    "words": [
+      {
+        "japanese": "1月",
+        "katakana": "ジャニュアリー",
+        "correct": "January",
+        "traps": [
+          "Junuary",
+          "Janualy",
+          "Janyuari",
+          "Janualey"
+        ],
+        "tip": "Jan からスタート！ 6月(June)と混ざらない。最後は ry"
+      },
+      {
+        "japanese": "2月",
+        "katakana": "フェブラリー",
+        "correct": "February",
+        "traps": [
+          "Feveary",
+          "Feburary",
+          "Febuary",
+          "Feburaly"
+        ],
+        "tip": "b と v（Feveary ✕）注意！ Feb-ru-ary と区切る"
+      },
+      {
+        "japanese": "3月",
+        "katakana": "マーチ",
+        "correct": "March",
+        "traps": [
+          "Mrch",
+          "Maach",
+          "Marh",
+          "Maachi"
+        ],
+        "tip": "母音 a を飛ばさない！ M-a-r-ch"
+      },
+      {
+        "japanese": "4月",
+        "katakana": "エイプリル",
+        "correct": "April",
+        "traps": [
+          "Aprl",
+          "Apirl",
+          "Eipuriru",
+          "Aprile"
+        ],
+        "tip": "リルの母音 i を抜かさない！ A-p-r-i-l"
+      },
+      {
+        "japanese": "5月",
+        "katakana": "メイ",
+        "correct": "May",
+        "traps": [
+          "Mei",
+          "Mey",
+          "Mai",
+          "Me-"
+        ],
+        "tip": "ay でエイの音！ ローマ字 Mei や Mai ✕"
+      },
+      {
+        "japanese": "6月",
+        "katakana": "ジューン",
+        "correct": "June",
+        "traps": [
+          "Jun",
+          "Joon",
+          "Jyu-n",
+          "Juun"
+        ],
+        "tip": "マジックe！ J-u-n-e。1月(Jan)と区別"
+      },
+      {
+        "japanese": "7月",
+        "katakana": "ジュライ",
+        "correct": "July",
+        "traps": [
+          "Julai",
+          "Jurai",
+          "Julee",
+          "Jyurai"
+        ],
+        "tip": "r と l（Jurai ✕）注意！ 最後は y（July）"
+      },
+      {
+        "japanese": "8月",
+        "katakana": "オーガスト",
+        "correct": "August",
+        "traps": [
+          "Augst",
+          "Ogast",
+          "Ogasuto",
+          "Ougust"
+        ],
+        "tip": "ガスの u を忘れずに！ Au-gu-st"
+      },
+      {
+        "japanese": "9月",
+        "katakana": "セプテンバー",
+        "correct": "September",
+        "traps": [
+          "Septenber",
+          "Septembar",
+          "Seputenba",
+          "Septembel"
+        ],
+        "tip": "Sep-tem-ber。真ん中は m！ 最後は r（bel ✕）"
+      },
+      {
+        "japanese": "10月",
+        "katakana": "オクトーバー",
+        "correct": "October",
+        "traps": [
+          "Octokder",
+          "Octover",
+          "Okutoba",
+          "Octobel"
+        ],
+        "tip": "後半は ber！ k や v にしない（Octover ✕）"
+      },
+      {
+        "japanese": "11月",
+        "katakana": "ノーベンバー",
+        "correct": "November",
+        "traps": [
+          "Nomember",
+          "Nowember",
+          "Nobenba",
+          "Novembell"
+        ],
+        "tip": "真ん中は v！ m と混同しない（Nomember ✕）"
+      },
+      {
+        "japanese": "12月",
+        "katakana": "ディセンバー",
+        "correct": "December",
+        "traps": [
+          "Desember",
+          "Decenber",
+          "Disenba",
+          "Decembel"
+        ],
+        "tip": "セは c（Desember ✕）！ De-cem-ber"
+      }
+    ]
+  },
+  "verbs": {
+    "id": "verbs",
+    "title": "🏃 基本動詞・生活（17語）",
+    "desc": "write, read, know, watch, listen など中1必須動詞",
+    "isPreset": true,
+    "words": [
+      {
+        "japanese": "持っている",
+        "katakana": "ハブ",
+        "correct": "have",
+        "traps": [
+          "hav",
+          "habu",
+          "hafe",
+          "habe"
+        ],
+        "tip": "英語は v で終わらない！ 最後に e がつく"
+      },
+      {
+        "japanese": "好き",
+        "katakana": "ライク",
+        "correct": "like",
+        "traps": [
+          "raiku",
+          "raik",
+          "lik",
+          "laik"
+        ],
+        "tip": "r と l（raiku ✕）！ マジックeで l-i-k-e"
+      },
+      {
+        "japanese": "する・遊ぶ",
+        "katakana": "プレイ",
+        "correct": "play",
+        "traps": [
+          "pray",
+          "purei",
+          "plei",
+          "plai"
+        ],
+        "tip": "pray（祈る）と混同注意！ ay でエイ（purei ✕）"
+      },
+      {
+        "japanese": "勉強する",
+        "katakana": "スタディ",
+        "correct": "study",
+        "traps": [
+          "stady",
+          "sutadi",
+          "studee",
+          "stadi"
+        ],
+        "tip": "u だけどアと読む！ ローマ字 sutadi / stady ✕"
+      },
+      {
+        "japanese": "話す",
+        "katakana": "スピーク",
+        "correct": "speak",
+        "traps": [
+          "speek",
+          "supi-ku",
+          "speke",
+          "supeku"
+        ],
+        "tip": "ea でイーの音！ ローマ字 supi-ku ✕"
+      },
+      {
+        "japanese": "読む",
+        "katakana": "リード",
+        "correct": "read",
+        "traps": [
+          "red",
+          "lead",
+          "rido",
+          "reed"
+        ],
+        "tip": "red（赤）や lead（導く）と同音注意！ ea でイー"
+      },
+      {
+        "japanese": "見る・腕時計",
+        "katakana": "ウォッチ",
+        "correct": "watch",
+        "traps": [
+          "wach",
+          "wotti",
+          "whach",
+          "wachi"
+        ],
+        "tip": "読まない t が入る！ wa-tch。ローマ字 wotti ✕"
+      },
+      {
+        "japanese": "聞く・耳を傾ける",
+        "katakana": "リスン",
+        "correct": "listen",
+        "traps": [
+          "lison",
+          "risun",
+          "liston",
+          "lisen"
+        ],
+        "tip": "読まない t がある！ r と l（risun ✕）にも注意"
+      },
+      {
+        "japanese": "欲しい",
+        "katakana": "ウォント",
+        "correct": "want",
+        "traps": [
+          "wont",
+          "wonto",
+          "wannt",
+          "wontu"
+        ],
+        "tip": "w-a-n-t！ wont（短縮形）や wonto ✕"
+      },
+      {
+        "japanese": "住んでいる",
+        "katakana": "リブ",
+        "correct": "live",
+        "traps": [
+          "rib",
+          "ribu",
+          "liv",
+          "leev"
+        ],
+        "tip": "r と l（rib ✕）！ have と同じく最後は ve"
+      },
+      {
+        "japanese": "食べる",
+        "katakana": "イート",
+        "correct": "eat",
+        "traps": [
+          "ate",
+          "i-to",
+          "eet",
+          "eate"
+        ],
+        "tip": "ate（過去形）と混同注意！ ea でイー"
+      },
+      {
+        "japanese": "飲む",
+        "katakana": "ドリンク",
+        "correct": "drink",
+        "traps": [
+          "dlink",
+          "dorinku",
+          "drenk",
+          "dlinku"
+        ],
+        "tip": "r と l（dlink ✕）！ dr-in-k。ローマ字 dorinku ✕"
+      },
+      {
+        "japanese": "行く",
+        "katakana": "ゴー",
+        "correct": "go",
+        "traps": [
+          "gou",
+          "go-",
+          "goo",
+          "gow"
+        ],
+        "tip": "g-o の2文字！ ローマ字 gou や goo ✕"
+      },
+      {
+        "japanese": "来る",
+        "katakana": "カム",
+        "correct": "come",
+        "traps": [
+          "kamu",
+          "kam",
+          "cum",
+          "coam"
+        ],
+        "tip": "マジックe！ c-o-m-e。ローマ字 kamu ✕"
+      },
+      {
+        "japanese": "書く",
+        "katakana": "ライト",
+        "correct": "write",
+        "traps": [
+          "right",
+          "raito",
+          "rite",
+          "wlite"
+        ],
+        "tip": "right（右）と同音！ 読まない w から始まる"
+      },
+      {
+        "japanese": "作る",
+        "katakana": "メイク",
+        "correct": "make",
+        "traps": [
+          "meke",
+          "meiku",
+          "maik",
+          "meik"
+        ],
+        "tip": "メケ(meke)じゃない！ マジックeで m-a-k-e"
+      },
+      {
+        "japanese": "お金",
+        "katakana": "マネー",
+        "correct": "money",
+        "traps": [
+          "many",
+          "mome",
+          "manei",
+          "monee"
+        ],
+        "tip": "many（たくさんの）と混同注意！ mo-ney"
+      }
+    ]
+  }
+}
