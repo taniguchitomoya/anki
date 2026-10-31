@@ -91,7 +91,7 @@ GitHubに公開する前に、ご自身のPCや同一Wi-Fiのスマホから動�
 
 1. **サーバーを起動**:
    ```bash
-   cd /home/tomoya/anki/public
+   cd public
    python3 -m http.server 8000
    ```
 2. **PCから確認**:
@@ -109,9 +109,8 @@ GitHubに公開する前に、ご自身のPCや同一Wi-Fiのスマホから動�
 
 ### ステップ1: 変更のコミット
 ```bash
-cd /home/tomoya/anki
 git add .
-git commit -m "chore: move web files to public directory"
+git commit -m "feat: setup speedspell app"
 ```
 
 ### ステップ2: GitHub でリポジトリを作成
