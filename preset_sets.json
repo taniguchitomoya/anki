@@ -372,13 +372,13 @@
         "type": "en-ja",
         "english": "play",
         "reading": "プレイ",
-        "correct": "（スポーツを）する・遊ぶ・演奏する",
+        "correct": "遊ぶ",
         "traps": [
-          "勉強する",
           "走る",
-          "見る"
+          "見る",
+          "泳ぐ"
         ],
-        "tip": "play soccer（サッカーをする）、play the piano（ピアノを弾く）"
+        "tip": "「遊ぶ」のほか、play soccer（サッカーをする）のように「（スポーツを）する」、play the piano（ピアノを弾く・演奏する）の意味でもよく使うよ！"
       },
       {
         "id": "v_like",
@@ -388,8 +388,8 @@
         "correct": "〜が好き",
         "traps": [
           "〜が欲しい",
-          "〜を知っている",
-          "〜を持っている"
+          "〜が嫌い",
+          "〜が得意"
         ],
         "tip": "I like ~ で「私は〜が好きです」"
       },
@@ -398,13 +398,13 @@
         "type": "en-ja",
         "english": "have",
         "reading": "ハヴ",
-        "correct": "持っている・飼っている・食べる",
+        "correct": "持っている",
         "traps": [
-          "行く",
-          "作る",
-          "住んでいる"
+          "住んでいる",
+          "知っている",
+          "待っている"
         ],
-        "tip": "have a pen（ペンを持っている）、have a dog（犬を飼っている）"
+        "tip": "「持っている（have a pen）」のほか、「（ペットを）飼っている（have a dog）」「（食事を）食べる」の意味でもよく使うよ！"
       },
       {
         "id": "v_go",
@@ -440,8 +440,8 @@
         "correct": "食べる",
         "traps": [
           "飲む",
-          "料理する",
-          "買う"
+          "作る",
+          "捨てる"
         ],
         "tip": "eat breakfast（朝食を食べる）"
       },
@@ -463,39 +463,39 @@
         "type": "en-ja",
         "english": "see",
         "reading": "シー",
-        "correct": "見る・会う・わかる",
+        "correct": "見る",
         "traps": [
           "聞く",
           "話す",
           "言う"
         ],
-        "tip": "視界に入って「見える」や「（人に）会う」"
+        "tip": "視界に入って「見える・見る」のほか、「（人に）会う」「わかる（I see.）」という意味でもよく使うよ！"
       },
       {
         "id": "v_look",
         "type": "en-ja",
         "english": "look",
         "reading": "ルック",
-        "correct": "（意識して）見る・〜に見える",
+        "correct": "見る",
         "traps": [
           "聞く",
           "探す",
           "待つ"
         ],
-        "tip": "look at ~ で「〜を見る」"
+        "tip": "look at ~ で「（意識して）〜を見る」、look happy で「〜に見える」という意味になるよ！"
       },
       {
         "id": "v_watch",
         "type": "en-ja",
         "english": "watch",
         "reading": "ウォッチ",
-        "correct": "（動くものをじっと）見る",
+        "correct": "見る",
         "traps": [
           "読む",
           "聞く",
           "書く"
         ],
-        "tip": "watch TV（テレビを見る）、名詞では「腕時計」"
+        "tip": "watch TV（テレビを見る）のように「動くものをじっと見る」ときに使うよ。名詞では「腕時計」の意味も！"
       },
       {
         "id": "v_make",
@@ -517,9 +517,9 @@
         "reading": "スタディ",
         "correct": "勉強する",
         "traps": [
-          "教える",
-          "読む",
-          "遊ぶ"
+          "料理する",
+          "掃除する",
+          "運動する"
         ],
         "tip": "study English（英語を勉強する）"
       },
@@ -541,11 +541,11 @@
         "type": "en-ja",
         "english": "want",
         "reading": "ウォント",
-        "correct": "欲しい",
+        "correct": "〜が欲しい",
         "traps": [
-          "好き",
-          "あげる",
-          "買う"
+          "〜が好き",
+          "〜が嫌い",
+          "〜が必要"
         ],
         "tip": "want a new bike（新しい自転車が欲しい）"
       },
@@ -581,39 +581,39 @@
         "type": "en-ja",
         "english": "speak",
         "reading": "スピーク",
-        "correct": "（言語を）話す",
+        "correct": "話す",
         "traps": [
           "聞く",
           "書く",
           "読む"
         ],
-        "tip": "speak English（英語を話す）"
+        "tip": "speak English（英語を話す）のように、主に「（言語を）話す」ときに使うよ！"
       },
       {
         "id": "v_talk",
         "type": "en-ja",
         "english": "talk",
         "reading": "トーク",
-        "correct": "おしゃべりする・話し合う",
+        "correct": "話す",
         "traps": [
           "歩く",
           "聞く",
           "歌う"
         ],
-        "tip": "talk with friends（友達と話す）※l は発音しない"
+        "tip": "talk with friends（友達と話す）のように「おしゃべりする・話し合う」ときに使うよ（※l は発音しない）。"
       },
       {
         "id": "v_listen",
         "type": "en-ja",
         "english": "listen",
         "reading": "リスン",
-        "correct": "（耳を傾けて）聞く",
+        "correct": "聞く",
         "traps": [
           "見る",
           "話す",
           "歌う"
         ],
-        "tip": "listen to music（音楽を聞く）※t は発音しない"
+        "tip": "listen to music（音楽を聞く）のように「耳を傾けて聞く」ときに使うよ（※t は発音しない）。"
       },
       {
         "id": "v_run",
@@ -660,13 +660,13 @@
         "english": "live",
         "reading": "リヴ",
         "speak": "liv",
-        "correct": "住んでいる・生きる",
+        "correct": "住む",
         "traps": [
           "去る",
           "働く",
           "泊まる"
         ],
-        "tip": "live in Tokyo（東京に住んでいる）"
+        "tip": "「住む・住んでいる（live in Tokyo）」「生きる」という意味で使うよ。"
       },
       {
         "id": "v_know",
@@ -675,9 +675,9 @@
         "reading": "ノウ",
         "correct": "知っている",
         "traps": [
-          "考える",
-          "忘れる",
-          "教える"
+          "持っている",
+          "住んでいる",
+          "待っている"
         ],
         "tip": "I know him.（私は彼を知っています）※最初の k は発音しない"
       },
@@ -686,26 +686,26 @@
         "type": "en-ja",
         "english": "think",
         "reading": "シンク",
-        "correct": "思う・考える",
+        "correct": "考える",
         "traps": [
-          "知る",
           "信じる",
-          "聞く"
+          "忘れる",
+          "覚える"
         ],
-        "tip": "I think so.（私もそう思います）"
+        "tip": "「考える・思う」の両方の意味で使うよ。I think so.（私もそう思います）"
       },
       {
         "id": "v_help",
         "type": "en-ja",
         "english": "help",
         "reading": "ヘルプ",
-        "correct": "手伝う・助ける",
+        "correct": "手伝う",
         "traps": [
-          "呼ぶ",
+          "断る",
           "探す",
           "待つ"
         ],
-        "tip": "help my mother（母の手伝いをする）"
+        "tip": "「手伝う・助ける」の両方の意味で使うよ。help my mother（母の手伝いをする）"
       },
       {
         "id": "v_buy",
@@ -725,52 +725,52 @@
         "type": "en-ja",
         "english": "get",
         "reading": "ゲット",
-        "correct": "手に入れる・着く・になる",
+        "correct": "手に入れる",
         "traps": [
-          "あげる",
-          "なくす",
-          "忘れる"
+          "置いていく",
+          "思い出す",
+          "片付ける"
         ],
-        "tip": "get up（起きる）、get home（家に着く）"
+        "tip": "「手に入れる」のほか、「（場所に）着く（get home）」「〜になる」「起きる（get up）」など多くの意味がある重要動詞！"
       },
       {
         "id": "v_take",
         "type": "en-ja",
         "english": "take",
         "reading": "テイク",
-        "correct": "持っていく・（写真を）撮る・乗る",
+        "correct": "持っていく",
         "traps": [
           "置いていく",
-          "買う",
-          "見る"
+          "思い出す",
+          "片付ける"
         ],
-        "tip": "take a picture（写真を撮る）、take a bus（バスに乗る）"
+        "tip": "「持っていく・取る」のほか、take a picture（写真を撮る）、take a bus（バスに乗る）などでもよく使うよ！"
       },
       {
         "id": "v_give",
         "type": "en-ja",
         "english": "give",
         "reading": "ギヴ",
-        "correct": "あげる・与える",
+        "correct": "あげる",
         "traps": [
           "もらう",
-          "買う",
-          "取る"
+          "借りる",
+          "捨てる"
         ],
-        "tip": "give me ~（私に〜をくれる）"
+        "tip": "「あげる・与える・くれる」の意味。give me ~（私に〜をくれる）"
       },
       {
         "id": "v_open",
         "type": "en-ja",
         "english": "open",
         "reading": "オープン",
-        "correct": "開ける・開く",
+        "correct": "開ける",
         "traps": [
           "閉める",
           "止める",
           "始める"
         ],
-        "tip": "open the door（ドアを開ける）"
+        "tip": "open the door（ドアを開ける）。「開く（ひらく）」や形容詞「開いている」の意味もあるよ！"
       },
       {
         "id": "v_close",
@@ -778,26 +778,26 @@
         "english": "close",
         "reading": "クロウズ",
         "speak": "cloze",
-        "correct": "閉める・閉じる",
+        "correct": "閉める",
         "traps": [
           "開ける",
           "壊す",
           "洗う"
         ],
-        "tip": "close the window（窓を閉める）"
+        "tip": "close the window（窓を閉める）。「閉じる」という意味もあるよ！"
       },
       {
         "id": "v_clean",
         "type": "en-ja",
         "english": "clean",
         "reading": "クリーン",
-        "correct": "掃除する・きれいな",
+        "correct": "掃除する",
         "traps": [
-          "洗う",
           "料理する",
-          "散らかす"
+          "洗濯する",
+          "勉強する"
         ],
-        "tip": "clean my room（部屋を掃除する）"
+        "tip": "clean my room（部屋を掃除する）。形容詞で「きれいな・清潔な」という意味もあるよ！"
       },
       {
         "id": "v_wash",
@@ -807,8 +807,8 @@
         "correct": "洗う",
         "traps": [
           "見る",
-          "掃除する",
-          "拭く"
+          "拭く",
+          "干す"
         ],
         "tip": "wash the dishes（お皿を洗う）※watch（見る）と区別！"
       },
@@ -817,13 +817,13 @@
         "type": "en-ja",
         "english": "sleep",
         "reading": "スリープ",
-        "correct": "眠る・寝る",
+        "correct": "眠る",
         "traps": [
           "起きる",
           "座る",
           "休む"
         ],
-        "tip": "sleep well（よく眠る）"
+        "tip": "「眠る・寝る」の意味。sleep well（よく眠る）"
       }
     ]
   },
@@ -840,13 +840,13 @@
         "type": "en-ja",
         "english": "I",
         "reading": "アイ",
-        "correct": "私は・私が",
+        "correct": "私は",
         "traps": [
           "私の",
           "あなたは",
           "彼は"
         ],
-        "tip": "文のどこにあっても常に大文字の I で書きます"
+        "tip": "「私は・私が」の意味。文のどこにあっても常に大文字の I で書きます。"
       },
       {
         "id": "p_my",
@@ -866,39 +866,39 @@
         "type": "en-ja",
         "english": "me",
         "reading": "ミー",
-        "correct": "私を・私に",
+        "correct": "私を",
         "traps": [
           "私は",
           "私の",
-          "私たちを"
+          "彼を"
         ],
-        "tip": "help me（私を手伝う）のように動詞や前置詞の後ろに置きます"
+        "tip": "「私を・私に」の意味。help me（私を手伝う）のように動詞や前置詞の後ろに置きます。"
       },
       {
         "id": "p_you",
         "type": "en-ja",
         "english": "you",
         "reading": "ユー",
-        "correct": "あなたは・あなたを（あなたがた）",
+        "correct": "あなたは",
         "traps": [
           "あなたの",
           "彼は",
           "私たちは"
         ],
-        "tip": "「あなたは」にも「あなたを・に」にも使えます"
+        "tip": "「あなたは・あなたを（に）」、また複数で「あなたがたは（を）」の意味でも使います。"
       },
       {
         "id": "p_your",
         "type": "en-ja",
         "english": "your",
         "reading": "ユア",
-        "correct": "あなたの（あなたがたの）",
+        "correct": "あなたの",
         "traps": [
           "あなたは",
           "彼の",
           "私の"
         ],
-        "tip": "your bag（あなたのかばん）"
+        "tip": "your bag（あなたのかばん）。複数なら「あなたがたの」という意味にもなります。"
       },
       {
         "id": "p_he",
@@ -918,26 +918,26 @@
         "type": "en-ja",
         "english": "his",
         "reading": "ヒズ",
-        "correct": "彼の・彼のもの",
+        "correct": "彼の",
         "traps": [
           "彼は",
           "彼を",
           "彼女の"
         ],
-        "tip": "his friend（彼の友達）"
+        "tip": "「彼の〜（his friend）」のほか、「彼のもの」という意味でも使います。"
       },
       {
         "id": "p_him",
         "type": "en-ja",
         "english": "him",
         "reading": "ヒム",
-        "correct": "彼を・彼に",
+        "correct": "彼を",
         "traps": [
           "彼は",
           "彼の",
-          "彼らを"
+          "私を"
         ],
-        "tip": "I know him.（私は彼を知っています）"
+        "tip": "「彼を・彼に」の意味。I know him.（私は彼を知っています）"
       },
       {
         "id": "p_she",
@@ -957,13 +957,13 @@
         "type": "en-ja",
         "english": "her",
         "reading": "ハー",
-        "correct": "彼女の・彼女を（に）",
+        "correct": "彼女の",
         "traps": [
           "彼女は",
           "彼の",
           "彼らの"
         ],
-        "tip": "「彼女の〜（her book）」と「彼女を（like her）」の両方で使います"
+        "tip": "「彼女の〜（her book）」と「彼女を・彼女に（like her）」の両方の意味で使います！"
       },
       {
         "id": "p_we",
@@ -974,9 +974,9 @@
         "traps": [
           "私たちの",
           "彼らは",
-          "あなたがたは"
+          "あなたは"
         ],
-        "tip": "自分を含めて2人以上のとき「私たちは」は we です"
+        "tip": "自分を含めて2人以上のとき「私たちは・私たちが」は we です。"
       },
       {
         "id": "p_our",
@@ -996,117 +996,117 @@
         "type": "en-ja",
         "english": "us",
         "reading": "アス",
-        "correct": "私たちを・私たちに",
+        "correct": "私たちを",
         "traps": [
           "私たちは",
           "私たちの",
           "彼らを"
         ],
-        "tip": "Let's（〜しよう）は Let us の短縮形です"
+        "tip": "「私たちを・私たちに」の意味。Let's（〜しよう）は Let us の短縮形です。"
       },
       {
         "id": "p_they",
         "type": "en-ja",
         "english": "they",
         "reading": "ゼイ",
-        "correct": "彼らは・それらは",
+        "correct": "彼らは",
         "traps": [
           "彼らの",
           "私たちは",
-          "あれらは"
+          "彼女は"
         ],
-        "tip": "人でも物でも2つ以上のものを指して「彼らは・それらは」"
+        "tip": "人でも物でも2つ以上のものを指して「彼らは・それらは」という意味になります。"
       },
       {
         "id": "p_their",
         "type": "en-ja",
         "english": "their",
         "reading": "ゼア",
-        "correct": "彼らの・それらの",
+        "correct": "彼らの",
         "traps": [
           "彼らは",
           "彼らを",
           "私たちの"
         ],
-        "tip": "their teacher（彼らの先生）"
+        "tip": "「彼らの・それらの」の意味。their teacher（彼らの先生）"
       },
       {
         "id": "p_them",
         "type": "en-ja",
         "english": "them",
         "reading": "ゼム",
-        "correct": "彼らを（に）・それらを（に）",
+        "correct": "彼らを",
         "traps": [
           "彼らは",
           "彼らの",
           "私たちを"
         ],
-        "tip": "I like them.（私は彼ら／それらが好きです）"
+        "tip": "「彼らを（に）・それらを（に）」の意味。I like them.（私は彼ら／それらが好きです）"
       },
       {
         "id": "p_it",
         "type": "en-ja",
         "english": "it",
         "reading": "イット",
-        "correct": "それは・それを",
+        "correct": "それは",
         "traps": [
           "これは",
           "あれは",
-          "それらは"
+          "彼らは"
         ],
-        "tip": "1つの物や動物、天気・時間などを表すときに使います"
+        "tip": "1つの物や動物、天気・時間などを指して「それは・それを（に）」という意味で使います。"
       },
       {
         "id": "p_this",
         "type": "en-ja",
         "english": "this",
         "reading": "ディス",
-        "correct": "これ・この〜",
+        "correct": "これ",
         "traps": [
-          "あれ・あの〜",
-          "それ・その〜",
-          "これら"
+          "あれ",
+          "それ",
+          "どれ"
         ],
-        "tip": "自分の近くにある1つのものを指して「これ・この〜」"
+        "tip": "自分の近くにある1つのものを指して「これ」、名詞の前につけて「この〜（this book）」という意味でも使います。"
       },
       {
         "id": "p_that",
         "type": "en-ja",
         "english": "that",
         "reading": "ザット",
-        "correct": "あれ・あの〜",
+        "correct": "あれ",
         "traps": [
-          "これ・この〜",
-          "それ・その〜",
-          "あれら"
+          "これ",
+          "それ",
+          "どれ"
         ],
-        "tip": "少し離れたところにある1つのものを指して「あれ・あの〜」"
+        "tip": "少し離れたところにある1つのものを指して「あれ」、名詞の前につけて「あの〜（that girl）」という意味でも使います。"
       },
       {
         "id": "p_what",
         "type": "en-ja",
         "english": "what",
         "reading": "ワット",
-        "correct": "何（なに）・どんな〜",
+        "correct": "なに",
         "traps": [
-          "誰（だれ）",
+          "だれ",
           "どこ",
           "いつ"
         ],
-        "tip": "What is this?（これは何ですか？）"
+        "tip": "「何（なに）」のほか、what color（何色・どんな色）のように「どんな〜」という意味でも使います。"
       },
       {
         "id": "p_who",
         "type": "en-ja",
         "english": "who",
         "reading": "フー",
-        "correct": "誰（だれ）",
+        "correct": "だれ",
         "traps": [
-          "何（なに）",
-          "どのように",
+          "なに",
+          "どこ",
           "なぜ"
         ],
-        "tip": "Who is he?（彼は誰ですか？）"
+        "tip": "人をたずねる「だれ（誰）」。Who is he?（彼は誰ですか？）"
       },
       {
         "id": "p_where",
@@ -1117,9 +1117,9 @@
         "traps": [
           "いつ",
           "なぜ",
-          "何"
+          "なに"
         ],
-        "tip": "Where do you live?（どこに住んでいますか？）"
+        "tip": "場所をたずねる「どこ」。Where do you live?（どこに住んでいますか？）"
       },
       {
         "id": "p_when",
@@ -1132,33 +1132,33 @@
           "だれ",
           "なぜ"
         ],
-        "tip": "When is your birthday?（誕生日はいつですか？）"
+        "tip": "時をたずねる「いつ」。When is your birthday?（誕生日はいつですか？）"
       },
       {
         "id": "p_why",
         "type": "en-ja",
         "english": "why",
         "reading": "ワイ",
-        "correct": "なぜ・どうして",
+        "correct": "なぜ",
         "traps": [
           "いつ",
-          "どうやって",
-          "どこ"
+          "どこ",
+          "だれ"
         ],
-        "tip": "Why ~?（なぜ〜？）と聞かれたら Because ...（なぜなら…）で答えます"
+        "tip": "理由をたずねる「なぜ・どうして」。Why ~? と聞かれたら Because ...（なぜなら…）で答えます。"
       },
       {
         "id": "p_how",
         "type": "en-ja",
         "english": "how",
         "reading": "ハウ",
-        "correct": "どう・どうやって・どのくらい",
+        "correct": "どう",
         "traps": [
           "だれ",
           "なぜ",
           "いつ"
         ],
-        "tip": "How are you?（調子はどう？）、How old ~?（何歳？）"
+        "tip": "方法や様子をたずねる「どう・どうやって」。How are you?（調子はどう？）、How old ~?（何歳・どのくらい〜？）でも使います。"
       }
     ]
   },
@@ -1640,13 +1640,13 @@
         "type": "en-ja",
         "english": "good",
         "reading": "グッド",
-        "correct": "良い・上手な",
+        "correct": "良い",
         "traps": [
           "悪い",
-          "新しい",
-          "大きい"
+          "古い",
+          "長い"
         ],
-        "tip": "a good book（良い本）"
+        "tip": "a good book（良い本）。「上手な・得意な（good at ~）」という意味でもよく使います。"
       },
       {
         "id": "adj_new",
@@ -1666,13 +1666,13 @@
         "type": "en-ja",
         "english": "old",
         "reading": "オールド",
-        "correct": "古い・年をとった・〜歳の",
+        "correct": "古い",
         "traps": [
           "新しい",
           "若い",
           "高い"
         ],
-        "tip": "an old house（古い家）、How old are you?（何歳ですか？）"
+        "tip": "an old house（古い家）。「年をとった」や、How old are you?（何歳ですか？）のように「〜歳の」という意味でも使います。"
       },
       {
         "id": "adj_big",
@@ -1718,52 +1718,52 @@
         "type": "en-ja",
         "english": "short",
         "reading": "ショート",
-        "correct": "短い・背が低い",
+        "correct": "短い",
         "traps": [
           "長い",
-          "小さい",
+          "高い",
           "速い"
         ],
-        "tip": "short legs（短い足）"
+        "tip": "short legs（短い足）。物の長さが「短い」だけでなく、人の「背が低い」という意味でも使います！"
       },
       {
         "id": "adj_tall",
         "type": "en-ja",
         "english": "tall",
         "reading": "トール",
-        "correct": "（人や木などの）背が高い",
+        "correct": "背が高い",
         "traps": [
           "背が低い",
-          "太い",
-          "長い"
+          "幅が広い",
+          "足が速い"
         ],
-        "tip": "He is tall.（彼は背が高いです）"
+        "tip": "He is tall.（彼は背が高いです）のように、人や木などの「背が高い」ときに使います。"
       },
       {
         "id": "adj_high",
         "type": "en-ja",
         "english": "high",
         "reading": "ハイ",
-        "correct": "（山や建物・位置が）高い",
+        "correct": "高い",
         "traps": [
           "低い",
           "広い",
           "大きい"
         ],
-        "tip": "a high mountain（高い山）、high school（高校）"
+        "tip": "a high mountain（高い山）や high school（高校）のように、山や建物・位置などが「高い」ときに使います（人の身長には tall を使います）。"
       },
       {
         "id": "adj_happy",
         "type": "en-ja",
         "english": "happy",
         "reading": "ハッピー",
-        "correct": "幸せな・うれしい",
+        "correct": "幸せな",
         "traps": [
           "悲しい",
           "忙しい",
-          "怒った"
+          "寂しい"
         ],
-        "tip": "I am happy.（私はうれしいです）"
+        "tip": "「うれしい・幸せな」の両方の意味で使います。I am happy.（私はうれしいです）"
       },
       {
         "id": "adj_sad",
@@ -1798,9 +1798,9 @@
         "reading": "タイアード",
         "correct": "疲れた",
         "traps": [
-          "忙しい",
-          "お腹がすいた",
-          "元気な"
+          "怒った",
+          "困った",
+          "驚いた"
         ],
         "tip": "I am tired.（私は疲れています）"
       },
@@ -1812,8 +1812,8 @@
         "correct": "お腹がすいた",
         "traps": [
           "のどが渇いた",
-          "疲れた",
-          "怒った"
+          "頭が痛い",
+          "目が覚めた"
         ],
         "tip": "Are you hungry?（お腹がすいていますか？）"
       },
@@ -1822,26 +1822,26 @@
         "type": "en-ja",
         "english": "kind",
         "reading": "カインド",
-        "correct": "親切な・優しい",
+        "correct": "親切な",
         "traps": [
-          "厳しい",
           "元気な",
-          "有名な"
+          "有名な",
+          "静かな"
         ],
-        "tip": "She is kind.（彼女は親切です）"
+        "tip": "「親切な・優しい」の意味。She is kind.（彼女は親切です）※名詞では「種類」という意味もあります。"
       },
       {
         "id": "adj_nice",
         "type": "en-ja",
         "english": "nice",
         "reading": "ナイス",
-        "correct": "すてきな・良い・優しい",
+        "correct": "すてきな",
         "traps": [
-          "悪い",
-          "難しい",
-          "古い"
+          "きれいな",
+          "有名な",
+          "静かな"
         ],
-        "tip": "Nice to meet you.（はじめまして）"
+        "tip": "「すてきな・良い・優しい」の意味。Nice to meet you.（はじめまして）"
       },
       {
         "id": "adj_cute",
@@ -1861,39 +1861,39 @@
         "type": "en-ja",
         "english": "hot",
         "reading": "ホット",
-        "correct": "暑い・熱い・辛い",
+        "correct": "暑い",
         "traps": [
-          "寒い・冷たい",
+          "寒い",
           "暖かい",
           "涼しい"
         ],
-        "tip": "It is hot today.（今日は暑いです）"
+        "tip": "天気が「暑い」のほか、飲み物などが「熱い」、食べ物が「辛い（からい）」という意味でも使います！"
       },
       {
         "id": "adj_cold",
         "type": "en-ja",
         "english": "cold",
         "reading": "コールド",
-        "correct": "寒い・冷たい",
+        "correct": "寒い",
         "traps": [
-          "暑い・熱い",
+          "暑い",
           "涼しい",
-          "暗い"
+          "暖かい"
         ],
-        "tip": "cold water（冷たい水）"
+        "tip": "天気が「寒い」のほか、cold water（冷たい水）のように物が「冷たい」、名詞で「風邪（かぜ）」という意味でも使います！"
       },
       {
         "id": "adj_many",
         "type": "en-ja",
         "english": "many",
         "reading": "メニー",
-        "correct": "たくさんの〜",
+        "correct": "たくさんの",
         "traps": [
-          "少しの〜",
-          "すべての〜",
-          "いくつかの〜"
+          "少しの",
+          "すべての",
+          "いくつかの"
         ],
-        "tip": "many books（たくさんの本）※数えられる名詞につけます"
+        "tip": "many books（たくさんの本）※数えられる名詞の複数形につけます。"
       }
     ]
   },
@@ -1962,26 +1962,26 @@
         "type": "en-ja",
         "english": "father",
         "reading": "ファーザー",
-        "correct": "父（お父さん）",
+        "correct": "父",
         "traps": [
           "母",
-          "兄・弟",
+          "兄",
           "祖父"
         ],
-        "tip": "father ＝ 父"
+        "tip": "father ＝ 父（お父さん）"
       },
       {
         "id": "n_mother",
         "type": "en-ja",
         "english": "mother",
         "reading": "マザー",
-        "correct": "母（お母さん）",
+        "correct": "母",
         "traps": [
           "父",
-          "姉・妹",
+          "姉",
           "祖母"
         ],
-        "tip": "mother ＝ 母"
+        "tip": "mother ＝ 母（お母さん）"
       },
       {
         "id": "n_brother",
@@ -1991,8 +1991,8 @@
         "correct": "兄・弟",
         "traps": [
           "姉・妹",
-          "父",
-          "いとこ"
+          "祖父・祖母",
+          "おじ・おば"
         ],
         "tip": "brother ＝ 兄または弟"
       },
@@ -2004,8 +2004,8 @@
         "correct": "姉・妹",
         "traps": [
           "兄・弟",
-          "母",
-          "おば"
+          "祖父・祖母",
+          "おじ・おば"
         ],
         "tip": "sister ＝ 姉または妹"
       },
@@ -2014,78 +2014,78 @@
         "type": "en-ja",
         "english": "teacher",
         "reading": "ティーチャー",
-        "correct": "先生・教師",
+        "correct": "先生",
         "traps": [
           "生徒",
           "医者",
           "選手"
         ],
-        "tip": "an English teacher（英語の先生）"
+        "tip": "「先生・教師」の意味。an English teacher（英語の先生）"
       },
       {
         "id": "n_student",
         "type": "en-ja",
         "english": "student",
         "reading": "スチューデント",
-        "correct": "生徒・学生",
+        "correct": "生徒",
         "traps": [
           "先生",
           "友達",
           "子供"
         ],
-        "tip": "a junior high school student（中学生）"
+        "tip": "「生徒・学生」の意味。a junior high school student（中学生）"
       },
       {
         "id": "n_boy",
         "type": "en-ja",
         "english": "boy",
         "reading": "ボーイ",
-        "correct": "男の子・少年",
+        "correct": "男の子",
         "traps": [
           "女の子",
           "男の人",
-          "赤ちゃん"
+          "女の人"
         ],
-        "tip": "boy ＝ 男の子"
+        "tip": "「男の子・少年」の意味。"
       },
       {
         "id": "n_girl",
         "type": "en-ja",
         "english": "girl",
         "reading": "ガール",
-        "correct": "女の子・少女",
+        "correct": "女の子",
         "traps": [
           "男の子",
           "女の人",
-          "姉・妹"
+          "男の人"
         ],
-        "tip": "girl ＝ 女の子"
+        "tip": "「女の子・少女」の意味。"
       },
       {
         "id": "n_man",
         "type": "en-ja",
         "english": "man",
         "reading": "マン",
-        "correct": "男の人・男性",
+        "correct": "男の人",
         "traps": [
           "女の人",
           "男の子",
-          "人々"
+          "女の子"
         ],
-        "tip": "man ＝ 大人の男性"
+        "tip": "大人の「男の人・男性」の意味（複数形は men）。"
       },
       {
         "id": "n_woman",
         "type": "en-ja",
         "english": "woman",
         "reading": "ウーマン",
-        "correct": "女の人・女性",
+        "correct": "女の人",
         "traps": [
           "男の人",
           "女の子",
-          "母親"
+          "男の子"
         ],
-        "tip": "woman ＝ 大人の女性"
+        "tip": "大人の「女の人・女性」の意味（複数形は women）。"
       },
       {
         "id": "n_people",
@@ -2170,13 +2170,13 @@
         "type": "en-ja",
         "english": "bag",
         "reading": "バッグ",
-        "correct": "かばん・袋",
+        "correct": "かばん",
         "traps": [
-          "箱",
-          "靴",
-          "帽子"
+          "ぼうし",
+          "めがね",
+          "くつ"
         ],
-        "tip": "my bag（私のかばん）"
+        "tip": "my bag（私のかばん）。「かばん・袋」の意味で使います。"
       },
       {
         "id": "n_box",
@@ -2209,13 +2209,13 @@
         "type": "en-ja",
         "english": "house",
         "reading": "ハウス",
-        "correct": "家（建物）",
+        "correct": "家",
         "traps": [
           "部屋",
           "学校",
           "公園"
         ],
-        "tip": "house ＝ 家（建物のこと）"
+        "tip": "house ＝ 家（主に建物を指します。家庭や帰宅先には home も使います）。"
       },
       {
         "id": "n_park",
@@ -2274,13 +2274,13 @@
         "type": "en-ja",
         "english": "picture",
         "reading": "ピクチャー",
-        "correct": "写真・絵",
+        "correct": "写真",
         "traps": [
           "映画",
-          "本",
+          "音楽",
           "カメラ"
         ],
-        "tip": "take a picture（写真を撮る）"
+        "tip": "take a picture（写真を撮る）。「写真」と「絵・絵画」の両方の意味で使います！"
       },
       {
         "id": "n_water",
