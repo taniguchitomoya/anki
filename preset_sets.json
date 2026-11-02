@@ -830,231 +830,347 @@
   "core_pronouns": {
     "id": "core_pronouns",
     "title": "📖 【英日】② 代名詞・疑問詞",
-    "desc": "文の主役になる「私・彼・これ」と質問に必須の「何・どこ・いつ」全25語（4択・1回正解でOK）",
+    "desc": "文の主役になる代名詞（I-my-me-mine等の格変化穴埋め24問）と指示語・疑問詞9語の全33問（1回正解でOK）",
     "group": "en_ja",
     "requiredStreak": 1,
     "isPreset": true,
     "words": [
       {
         "id": "p_i",
-        "type": "en-ja",
-        "english": "I",
-        "reading": "アイ",
-        "correct": "私は",
+        "type": "grammar",
+        "sentence": "( 　 ) like music.",
+        "japanese": "私は音楽が好きです。",
+        "correct": "I",
         "traps": [
-          "私の",
-          "あなたは",
-          "彼は"
+          "My",
+          "Me",
+          "Mine"
         ],
-        "tip": "「私は・私が」の意味。文のどこにあっても常に大文字の I で書きます。"
+        "fullSentence": "I like music.",
+        "tip": "文の主語（「私は・私が」）には主格の I を使います。常に大文字で書きます。"
       },
       {
         "id": "p_my",
-        "type": "en-ja",
-        "english": "my",
-        "reading": "マイ",
-        "correct": "私の",
+        "type": "grammar",
+        "sentence": "This is ( 　 ) book.",
+        "japanese": "これは私の本です。",
+        "correct": "my",
         "traps": [
-          "私は",
-          "私を",
-          "あなたの"
+          "I",
+          "me",
+          "mine"
         ],
-        "tip": "my book（私の本）のように名詞の前に置きます"
+        "fullSentence": "This is my book.",
+        "tip": "名詞（book）の前で「私の〜」と言うときは所有格の my を使います。"
       },
       {
         "id": "p_me",
-        "type": "en-ja",
-        "english": "me",
-        "reading": "ミー",
-        "correct": "私を",
+        "type": "grammar",
+        "sentence": "Please help ( 　 ).",
+        "japanese": "どうか私を手伝ってください。",
+        "correct": "me",
         "traps": [
-          "私は",
-          "私の",
-          "彼を"
+          "I",
+          "my",
+          "mine"
         ],
-        "tip": "「私を・私に」の意味。help me（私を手伝う）のように動詞や前置詞の後ろに置きます。"
+        "fullSentence": "Please help me.",
+        "tip": "動詞や前置詞の後ろで「私を・私に」と言うときは目的格の me を使います。"
+      },
+      {
+        "id": "p_mine",
+        "type": "grammar",
+        "sentence": "This pen is ( 　 ).",
+        "japanese": "このペンは私のものです。",
+        "correct": "mine",
+        "traps": [
+          "I",
+          "my",
+          "me"
+        ],
+        "fullSentence": "This pen is mine.",
+        "tip": "「私のもの」と1語で言うときは所有代名詞の mine を使います（後ろに名詞は置きません）。"
       },
       {
         "id": "p_you",
-        "type": "en-ja",
-        "english": "you",
-        "reading": "ユー",
-        "correct": "あなたは",
+        "type": "grammar",
+        "sentence": "( 　 ) play tennis.",
+        "japanese": "あなたはテニスをします。",
+        "correct": "You",
         "traps": [
-          "あなたの",
-          "彼は",
-          "私たちは"
+          "Your",
+          "Yours"
         ],
-        "tip": "「あなたは・あなたを（に）」、また複数で「あなたがたは（を）」の意味でも使います。"
+        "fullSentence": "You play tennis.",
+        "tip": "主語の「あなたは（が）」には You を使います（複数で「あなたがたは」の意味もあります）。"
       },
       {
         "id": "p_your",
-        "type": "en-ja",
-        "english": "your",
-        "reading": "ユア",
-        "correct": "あなたの",
+        "type": "grammar",
+        "sentence": "Is this ( 　 ) bag?",
+        "japanese": "これはあなたのかばんですか？",
+        "correct": "your",
         "traps": [
-          "あなたは",
-          "彼の",
-          "私の"
+          "you",
+          "yours"
         ],
-        "tip": "your bag（あなたのかばん）。複数なら「あなたがたの」という意味にもなります。"
+        "fullSentence": "Is this your bag?",
+        "tip": "名詞（bag）の前で「あなたの〜」と言うときは所有格の your を使います。"
+      },
+      {
+        "id": "p_you_obj",
+        "type": "grammar",
+        "sentence": "I know ( 　 ) well.",
+        "japanese": "私はあなたをよく知っています。",
+        "correct": "you",
+        "traps": [
+          "your",
+          "yours"
+        ],
+        "fullSentence": "I know you well.",
+        "tip": "動詞の後ろで「あなたを・あなたに」と言うときも、主語と同じ形の you を使います！"
+      },
+      {
+        "id": "p_yours",
+        "type": "grammar",
+        "sentence": "Is this bike ( 　 )?",
+        "japanese": "この自転車はあなたのものですか？",
+        "correct": "yours",
+        "traps": [
+          "you",
+          "your"
+        ],
+        "fullSentence": "Is this bike yours?",
+        "tip": "「あなたのもの」と1語で言うときは所有代名詞の yours を使います。"
       },
       {
         "id": "p_he",
-        "type": "en-ja",
-        "english": "he",
-        "reading": "ヒー",
-        "correct": "彼は",
+        "type": "grammar",
+        "sentence": "( 　 ) plays soccer.",
+        "japanese": "彼はサッカーをします。",
+        "correct": "He",
         "traps": [
-          "彼の",
-          "彼女は",
-          "彼らは"
+          "His",
+          "Him"
         ],
-        "tip": "男の人1人を指して「彼は」と言うときに使います"
+        "fullSentence": "He plays soccer.",
+        "tip": "男の人1人を指して「彼は（が）」と主語にするときは He を使います。"
       },
       {
         "id": "p_his",
-        "type": "en-ja",
-        "english": "his",
-        "reading": "ヒズ",
-        "correct": "彼の",
+        "type": "grammar",
+        "sentence": "That is ( 　 ) bike.",
+        "japanese": "あれは彼の自転車です。",
+        "correct": "his",
         "traps": [
-          "彼は",
-          "彼を",
-          "彼女の"
+          "he",
+          "him"
         ],
-        "tip": "「彼の〜（his friend）」のほか、「彼のもの」という意味でも使います。"
+        "fullSentence": "That is his bike.",
+        "tip": "名詞（bike）の前で「彼の〜」と言うときは所有格の his を使います。"
       },
       {
         "id": "p_him",
-        "type": "en-ja",
-        "english": "him",
-        "reading": "ヒム",
-        "correct": "彼を",
+        "type": "grammar",
+        "sentence": "Do you know ( 　 )?",
+        "japanese": "あなたは彼を知っていますか？",
+        "correct": "him",
         "traps": [
-          "彼は",
-          "彼の",
-          "私を"
+          "he",
+          "his"
         ],
-        "tip": "「彼を・彼に」の意味。I know him.（私は彼を知っています）"
+        "fullSentence": "Do you know him?",
+        "tip": "動詞や前置詞の後ろで「彼を・彼に」と言うときは目的格の him を使います。"
+      },
+      {
+        "id": "p_his_poss",
+        "type": "grammar",
+        "sentence": "This room is ( 　 ).",
+        "japanese": "この部屋は彼のものです。",
+        "correct": "his",
+        "traps": [
+          "he",
+          "him"
+        ],
+        "fullSentence": "This room is his.",
+        "tip": "「彼のもの」も「彼の」とまったく同じ形（his）を使います！（he - his - him - his）"
       },
       {
         "id": "p_she",
-        "type": "en-ja",
-        "english": "she",
-        "reading": "シー",
-        "correct": "彼女は",
+        "type": "grammar",
+        "sentence": "( 　 ) likes cats.",
+        "japanese": "彼女は猫が好きです。",
+        "correct": "She",
         "traps": [
-          "彼女の",
-          "彼は",
-          "それらは"
+          "Her",
+          "Hers"
         ],
-        "tip": "女の人1人を指して「彼女は」と言うときに使います"
+        "fullSentence": "She likes cats.",
+        "tip": "女の人1人を指して「彼女は（が）」と主語にするときは She を使います。"
       },
       {
         "id": "p_her",
-        "type": "en-ja",
-        "english": "her",
-        "reading": "ハー",
-        "correct": "彼女の",
+        "type": "grammar",
+        "sentence": "Ken is ( 　 ) friend.",
+        "japanese": "ケンは彼女の友達です。",
+        "correct": "her",
         "traps": [
-          "彼女は",
-          "彼の",
-          "彼らの"
+          "she",
+          "hers"
         ],
-        "tip": "「彼女の〜（her book）」と「彼女を・彼女に（like her）」の両方の意味で使います！"
+        "fullSentence": "Ken is her friend.",
+        "tip": "名詞（friend）の前で「彼女の〜」と言うときは所有格の her を使います。"
+      },
+      {
+        "id": "p_her_obj",
+        "type": "grammar",
+        "sentence": "I like ( 　 ) very much.",
+        "japanese": "私は彼女がとても好きです。",
+        "correct": "her",
+        "traps": [
+          "she",
+          "hers"
+        ],
+        "fullSentence": "I like her very much.",
+        "tip": "動詞の後ろで「彼女を・彼女に」と言うときも her を使います！（she - her - her - hers）"
+      },
+      {
+        "id": "p_hers",
+        "type": "grammar",
+        "sentence": "That bag is ( 　 ).",
+        "japanese": "あのかばんは彼女のものです。",
+        "correct": "hers",
+        "traps": [
+          "she",
+          "her"
+        ],
+        "fullSentence": "That bag is hers.",
+        "tip": "「彼女のもの」と1語で言うときは所有代名詞の hers（sがつく）を使います。"
       },
       {
         "id": "p_we",
-        "type": "en-ja",
-        "english": "we",
-        "reading": "ウィー",
-        "correct": "私たちは",
+        "type": "grammar",
+        "sentence": "( 　 ) study English.",
+        "japanese": "私たちは英語を勉強します。",
+        "correct": "We",
         "traps": [
-          "私たちの",
-          "彼らは",
-          "あなたは"
+          "Our",
+          "Us",
+          "Ours"
         ],
-        "tip": "自分を含めて2人以上のとき「私たちは・私たちが」は we です。"
+        "fullSentence": "We study English.",
+        "tip": "自分を含めて2人以上の主語「私たちは（が）」には We を使います。"
       },
       {
         "id": "p_our",
-        "type": "en-ja",
-        "english": "our",
-        "reading": "アワー",
-        "correct": "私たちの",
+        "type": "grammar",
+        "sentence": "This is ( 　 ) school.",
+        "japanese": "これは私たちの学校です。",
+        "correct": "our",
         "traps": [
-          "私たちは",
-          "私たちを",
-          "彼らの"
+          "we",
+          "us",
+          "ours"
         ],
-        "tip": "our school（私たちの学校）"
+        "fullSentence": "This is our school.",
+        "tip": "名詞（school）の前で「私たちの〜」と言うときは所有格の our を使います。"
       },
       {
         "id": "p_us",
-        "type": "en-ja",
-        "english": "us",
-        "reading": "アス",
-        "correct": "私たちを",
+        "type": "grammar",
+        "sentence": "Come with ( 　 )!",
+        "japanese": "私たちといっしょに来てください！",
+        "correct": "us",
         "traps": [
-          "私たちは",
-          "私たちの",
-          "彼らを"
+          "we",
+          "our",
+          "ours"
         ],
-        "tip": "「私たちを・私たちに」の意味。Let's（〜しよう）は Let us の短縮形です。"
+        "fullSentence": "Come with us!",
+        "tip": "動詞や前置詞（withなど）の後ろで「私たちを・私たちに」と言うときは目的格の us を使います。"
+      },
+      {
+        "id": "p_ours",
+        "type": "grammar",
+        "sentence": "This dog is ( 　 ).",
+        "japanese": "この犬は私たちのものです。",
+        "correct": "ours",
+        "traps": [
+          "we",
+          "our",
+          "us"
+        ],
+        "fullSentence": "This dog is ours.",
+        "tip": "「私たちのもの」と1語で言うときは所有代名詞の ours を使います。"
       },
       {
         "id": "p_they",
-        "type": "en-ja",
-        "english": "they",
-        "reading": "ゼイ",
-        "correct": "彼らは",
+        "type": "grammar",
+        "sentence": "( 　 ) live in Tokyo.",
+        "japanese": "彼らは東京に住んでいます。",
+        "correct": "They",
         "traps": [
-          "彼らの",
-          "私たちは",
-          "彼女は"
+          "Their",
+          "Them",
+          "Theirs"
         ],
-        "tip": "人でも物でも2つ以上のものを指して「彼らは・それらは」という意味になります。"
+        "fullSentence": "They live in Tokyo.",
+        "tip": "2人以上の人や2つ以上の物を指して「彼らは・それらは」と主語にするときは They を使います。"
       },
       {
         "id": "p_their",
-        "type": "en-ja",
-        "english": "their",
-        "reading": "ゼア",
-        "correct": "彼らの",
+        "type": "grammar",
+        "sentence": "Mr. Tanaka is ( 　 ) teacher.",
+        "japanese": "田中先生は彼らの先生です。",
+        "correct": "their",
         "traps": [
-          "彼らは",
-          "彼らを",
-          "私たちの"
+          "they",
+          "them",
+          "theirs"
         ],
-        "tip": "「彼らの・それらの」の意味。their teacher（彼らの先生）"
+        "fullSentence": "Mr. Tanaka is their teacher.",
+        "tip": "名詞（teacher）の前で「彼らの〜・それらの〜」と言うときは所有格の their を使います。"
       },
       {
         "id": "p_them",
-        "type": "en-ja",
-        "english": "them",
-        "reading": "ゼム",
-        "correct": "彼らを",
+        "type": "grammar",
+        "sentence": "I like ( 　 ) very much.",
+        "japanese": "私は彼ら（それら）がとても好きです。",
+        "correct": "them",
         "traps": [
-          "彼らは",
-          "彼らの",
-          "私たちを"
+          "they",
+          "their",
+          "theirs"
         ],
-        "tip": "「彼らを（に）・それらを（に）」の意味。I like them.（私は彼ら／それらが好きです）"
+        "fullSentence": "I like them very much.",
+        "tip": "動詞や前置詞の後ろで「彼らを（に）・それらを（に）」と言うときは目的格の them を使います。"
+      },
+      {
+        "id": "p_theirs",
+        "type": "grammar",
+        "sentence": "That house is ( 　 ).",
+        "japanese": "あの家は彼らのものです。",
+        "correct": "theirs",
+        "traps": [
+          "they",
+          "their",
+          "them"
+        ],
+        "fullSentence": "That house is theirs.",
+        "tip": "「彼らのもの」と1語で言うときは所有代名詞の theirs を使います。"
       },
       {
         "id": "p_it",
         "type": "en-ja",
         "english": "it",
         "reading": "イット",
-        "correct": "それは",
+        "correct": "それ",
         "traps": [
-          "これは",
-          "あれは",
-          "彼らは"
+          "これ",
+          "あれ",
+          "どれ"
         ],
-        "tip": "1つの物や動物、天気・時間などを指して「それは・それを（に）」という意味で使います。"
+        "tip": "1つの物や動物を指して「それ（それは・それを）」という意味で使います。"
       },
       {
         "id": "p_this",
